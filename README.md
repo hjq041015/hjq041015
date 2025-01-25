@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhiyi
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,c,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,c,mysql,vue)](https://skillicons.dev)
 <!---
 hjq041015/hjq041015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
